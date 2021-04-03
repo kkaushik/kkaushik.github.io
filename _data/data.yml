@@ -24,7 +24,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: Crypto
+      - item: Study of volatility & risk in financial markets.
         link:
 
       - item: Travel
@@ -33,37 +33,32 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      You've reached my personal page.
-      I enjoy building software with a focus on delivering experiences at scale.
+      Pursuing funemployment.
 
 experiences:
     - role: Software Development Engineer
       time: 2016 - Present
       company: Amazon, Seattle
       details: |
-        Engineer on the Consumer purchasing experience team.
-        Building out UX improvements and re-platforming critical retail website Checkout functionality.
+        Developer on the Checkout team.
 
     - role: Software Engineer
       time: 2014 - 2016
       company: Appdynamics Inc. (acquired by Cisco)
       details: |
-        Built deployment & orchestration tools to enable on premise deployment of enterprise software.
-        Dropwizard, Ansible.
+        Application performance management platform.
 
     - role: Software Engineer
       time: 2012 - 2014
-      company: Groupon Inc. Palo Alto
+      company: Groupon Inc.
       details: |
         Built experiences to onboard merchants and customers on the Groupon platform.
-        Ruby on Rails, Play framework
 
     - role: Software Engineer Intern
       time: Summer 2011
       company: Google
       details: |
-        Server and infrastructure mgmt.
-        Python, Django.
+        Internal tools - Server and infrastructure mgmt.
 
 skills:
     title: Toolchain
